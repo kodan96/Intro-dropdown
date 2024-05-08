@@ -32,6 +32,10 @@ header {
   position: relative;
 }
 
+.btn-wrapper {
+  display: none;
+}
+
 .logo {
   margin-block: 2rem 1rem;
 }
