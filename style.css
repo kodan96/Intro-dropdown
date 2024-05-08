@@ -218,6 +218,10 @@ h1 {
     
   }
 
+  .btn-wrapper {
+    display: inline;
+  }
+
   .nav-items a {
     display: inline;
     margin-right: 2rem;
